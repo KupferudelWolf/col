@@ -1,7 +1,5 @@
-# col
-Discord Color Scheme Bot
-
-Discord bot for handling colors and swatches.
+# Discord Color Scheme Bot
+A custom Discord.js bot for handling colors and swatches.
 
 ## Current features:
 * Creates a swatch from input colors (by hexadecimal value or by name).
