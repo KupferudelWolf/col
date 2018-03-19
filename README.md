@@ -14,7 +14,7 @@ A custom Discord.js bot for handling colors and swatches.
 * Create dynamic compositions with input colors.
 
 ## bvb: Birds VS Bees
-This is one of those aforementioned useless-to-everybody-but-me bots. Specifically, it is a text-based adventure MMORPG to be played within the Discord client, in which players choose a side in The Great War of Birds and Bees and gather resources to take over the opponent's bases and cities. It's really just an inside joke that's gone too far.
+This is one of those aforementioned useless-to-everybody-but-me bots. Specifically, it is a text-based adventure MMORPG to be played within the Discord client, in which players choose a side in The Great War of Birds and Bees and gather resources to take over the opponent's bases and cities. It's really just an inside joke between some friends that's gone way too far.
 
 ## iasid: It's Always Sunny In Discord
 A custom Discord.js bot for generating title cards inspired by the show *It's Always Sunny In Philadelphia*.
